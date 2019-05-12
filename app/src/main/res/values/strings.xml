@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Learn</string>
+    <string name="category_phrases" translatable="false">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors" translatable="false">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers" translatable="false">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family" translatable="false">Family</string>
+
+    <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
+    <string name="color_red" translatable="false">red</string>
+
+
+    <!-- Vocabulary word for the color mustard yellow [CHAR LIMIT=20] -->
+
+    <!-- Vocabulary word for the color green [CHAR LIMIT=20] -->
+    <string name="color_green" translatable="false">green</string>
+
+
+
+    <!-- Vocabulary word for the color black [CHAR LIMIT=20] -->
+    <string name="color_black" translatable="false">black</string>
+
+    <!-- Vocabulary word for the color gray [CHAR LIMIT=20] -->
+    <string name="color_gray" translatable="false">gray</string>
+
+    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <string name="color_white" translatable="false">white</string>
+
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="number_one" translatable="false">one</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="number_two" translatable="false">two</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="number_three" translatable="false">three</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="number_four" translatable="false">four</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="number_five" translatable="false">five</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="number_six" translatable="false">six</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="number_seven" translatable="false">seven</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="number_eight" translatable="false">eight</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="number_nine" translatable="false">nine</string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="number_ten" translatable="false">ten</string>
+
+    <!-- Vocabulary word for the father family member [CHAR LIMIT=20] -->
+    <string name="family_father" translatable="false">father</string>
+
+    <!-- Vocabulary word for the mother family member [CHAR LIMIT=20] -->
+    <string name="family_mother" translatable="false">mother</string>
+
+    <!-- Vocabulary word for the son family member [CHAR LIMIT=20] -->
+    <string name="family_son" translatable="false">son</string>
+
+    <!-- Vocabulary word for the daughter family member [CHAR LIMIT=20] -->
+    <string name="family_daughter" translatable="false">daughter</string>
+
+
+
+    <!-- Vocabulary word for the older sister family member [CHAR LIMIT=20] -->
+    <string name="family_older_sister" translatable="false">older sister</string>
+
+    <!-- Vocabulary word for the younger sister family member [CHAR LIMIT=20] -->
+    <string name="family_younger_sister" translatable="false">younger sister</string>
+
+    <!-- Vocabulary word for the grandmother family member [CHAR LIMIT=20] -->
+    <string name="family_grandmother" translatable="false">grandmother</string>
+
+    <!-- Vocabulary word for the grandfather family member [CHAR LIMIT=20] -->
+    <string name="family_grandfather" translatable="false">grandfather</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="phrase_where_are_you_going" translatable="false">Where are you going?</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="phrase_what_is_your_name" translatable="false">What is your name?</string>
+
+
+    <string name="phrase_are_you_coming" translatable="false">Are you coming?</string>
+
+    <string name="color_blue">Blue</string>
+    <string name="phrase_what_r_u_doing">What Are You Doing ?</string>
+    <string name="phrase_how_old_r_u">How Old Are You ?</string>
+    <string name="phrase_im_fine">I am Fine</string>
+    <string name="phrase_nice_to_meet_you">Nice To Meet you</string>
+    <string name="phrase_are_you_ok">are you ok ?</string>
+    <string name="thank_u">Thank you</string>
+    <string name="phrase_how_are_you">How are you ?</string>
+    <string name="phrase_who_are_you">Who are you ?</string>
+    <string name="color_yellow" translatable="false">yellow</string>
+
+    <string name="colororang" translatable="false">Orange</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="arabic_color_red" translatable="false">احمر</string>
+
+    <string name="arabic_color_dusty_yellow" translatable="false">اصفر</string>
+
+    <string name="arabic_color_orange" translatable="false">برتقالي</string>
+
+
+    <string name="arabic_color_black" translatable="false">اسود</string>
+
+    <string name="arabic_color_gray" translatable="false">رمادي</string>
+
+    <string name="arabic_color_white" translatable="false">ابيض</string>
+
+    <string name="arabic_family_father" translatable="false">اب</string>
+
+    <string name="arabic_family_mother" translatable="false">ام</string>
+
+    <string name="arabic_family_son" translatable="false">ابن</string>
+
+    <string name="arabic_family_daughter" translatable="false">أبنة</string>
+    <string name="arabic_color__yellow" translatable="false">اصفر</string>
+    <string name="arabic_color_green" translatable="false">أخضر</string>
+    <string name="arabic_phrase_who_are_you" translatable="false">من انت ؟</string>
+    <string name="arabic_phrase_how_are_you" translatable="false">كيف حالك؟</string>
+    <string name="arabic_phrase_thank_u" translatable="false">شكرا لك</string>
+    <string name="arabic_phrase_are_you_ok" translatable="false">هل انت بخير!</string>
+    <string name="arabic_phrase_nice_to_meet_u" translatable="false">سررت بلقائك</string>
+    <string name="arabic_phrase_im_fine" translatable="false">انا بخير</string>
+    <string name="arabic_phrase_how_old_r_u" translatable="false">كم عمرك ؟</string>
+    <string name="arabic_what_r_u_doing" translatable="false">ماذا تفعل ؟</string>
+    <string name="arabic_color_blue" translatable="false">أزرق</string>
+
+
+
+
+    <string name="arabic_family_older_sister" translatable="false">الاخت الكبيرة</string>
+
+    <string name="arabic_family_younger_sister" translatable="false">الاخت الصغيرة</string>
+
+    <string name="arabic_family_grandmother" translatable="false">جدة</string>
+
+    <string name="arabic_family_grandfather" translatable="false">جد</string>
+
+    <string name="arabic_number_one" translatable="false">واحد</string>
+
+    <string name="arabic_number_two" translatable="false">اثنين</string>
+
+    <string name="arabic_number_three" translatable="false">ثلاثة</string>
+
+    <string name="arabic_number_four" translatable="false">اربعة</string>
+
+    <string name="arabic_number_five" translatable="false">خمسة</string>
+
+    <string name="arabic_number_six" translatable="false">ستة</string>
+
+    <string name="arabic_number_seven" translatable="false">سبعة</string>
+
+    <string name="arabic_number_eight" translatable="false">ثمانية</string>
+
+    <string name="arabic_number_nine" translatable="false">تسعة</string>
+
+    <string name="arabic_number_ten" translatable="false">عشرة</string>
+
+    <string name="arabic_phrase_where_are_you_going" translatable="false">الي اين انت ذاهب</string>
+
+    <string name="arabic_phrase_what_is_your_name" translatable="false">ماهو اسمك</string>
+
+    <string name="arabic_phrase_are_you_coming" translatable="false">هل انت أتٍ ؟</string>
+
+
+
+
+</resources>
